@@ -3,7 +3,7 @@
 A simple Snake game created with Pygame.
 
 ## Description
-This is a classic Snake game where you control a snake to eat food and grow longer. The game ends if the snake hits the boundaries or itself.
+This is a classic Snake game where you control a red snake to eat blue food and grow longer. The game ends if the snake hits the boundaries or itself.
 
 ## Requirements
 - Python 3.x
